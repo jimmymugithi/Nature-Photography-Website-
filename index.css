@@ -18,6 +18,7 @@ img{
     width: 320px;
     height: 165px;
     margin-right:50;
+    display:inline-block
 }
 
 .header{
