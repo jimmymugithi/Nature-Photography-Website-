@@ -29,8 +29,7 @@ img{
     border-color: green;
     border-style: dashed;
     background-color: blanchedalmond;
-
-text-wrap: ;
+    text-wrap:12px;
 
 }
 .footer{
