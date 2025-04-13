@@ -4,7 +4,7 @@
 ## This is a photography website showing some of the most beautiful photos taken around the world. 
 {The website features waterfalls and forests (both man-made and indigenous) with stunning views and pathways where people can take walks to interact with nature. we can see birds having a great time in the old, rugged branches of an old tree. the breathtaking photos make you despise the human actions of deforestation, which are so rampant in this day and age. We also get to see how people have come up with innovative ways of creating beauty in their homes by building bridges to preserve the free flow of water bodies to ensure the trees are well nourished, those next to the river, therefore creating a wonderful garden. Therapy can be found within nature.}
 ## Setup/Installation Requirements
-*  •	All you need to do is to follow the link shared below
+* All you need to do is to follow the link shared below
 * [Follow the link](https://jimmymugithi.github.io/Nature-Photography-Website-/)
 * [I am also available on my personal email:jimugithi@gmail.com]
 ## Known Bugs
