@@ -38,10 +38,9 @@ footer {
     margin-top: 20px;
     height: 120px;
     border: 7px;
-    display: contents 7px;
     display: flex;
     justify-content:center;
     align-items: center;
-    text-align:jusify;
+    justify-content: space-around;
     
 }
